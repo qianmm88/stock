@@ -1,6 +1,6 @@
-# stock
+# Qianhe Stock Management App
 
-A new Flutter application.
+Flutter application for Qianhe Stock Management App
 
 ## Getting Started
 
